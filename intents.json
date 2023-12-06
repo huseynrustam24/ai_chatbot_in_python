@@ -180,7 +180,7 @@
                 "who programmed you"
             ],
             "responses": [
-                "I was made by Karan Malik."
+                "I was made by Huseyn."
             ]
         },
         {
@@ -338,7 +338,8 @@
                 "i am good",
                 "I am good",
                 "i am fine",
-                " i'm fine",'good'"
+                " i'm fine",
+                "good"
             ],
             "responses": [
                 "Good to know!"
